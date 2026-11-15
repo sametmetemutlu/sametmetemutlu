@@ -12,6 +12,3 @@ Kendi M3U listen ve telefon ekranın, park halindeyken araç ekranında. Uygulam
 
 **[Fan Flash](https://github.com/sametmetemutlu/fan-flash-website)** · tanıtım sitesi
 Canlı etkinlikte seyirci telefonlarını senkron bir ışık gösterisine çeviren platform.
-
-**[Hürkan Alabalık](https://h-rkanlaabal-k-1.vercel.app)** · HTML, CSS
-Restoran, canlı balık satışı ve çiftlik sitesi. [Kaynak](https://github.com/sametmetemutlu/hurkan-alabalik)
