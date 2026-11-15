@@ -1,14 +1,17 @@
-# sametmetemutlu
+# Samet Mete Mutlu
 
-iOS ve web tarafında kendi uygulamalarımı yazıyorum.
+Yazılım mühendisiyim. Flutter ile mobil, Swift ile iOS, TypeScript ile web tarafında kendi uygulamalarımı yazıyorum.
 
 ## Seçilen işler
 
-| Proje | |
-| --- | --- |
-| [CarPatt](https://github.com/sametmetemutlu/carlpatt) | Kendi M3U listen ve telefon ekranın, park halindeyken CarPlay ekranında. |
-| [Fiyat Gurusu](https://fiyat-gurusu-thgn.vercel.app) | Piyasa fiyatını tahmin etme oyunu. Tek oyunculu ve çok oyunculu turlar. [Kaynak](https://github.com/sametmetemutlu/fiyat-gurusu) |
-| [Fan Flash](https://github.com/sametmetemutlu/fanflash) | |
-| Horlama Uyanma Asistanı | Gece horlamayı dinleyip uyandıran iPhone uygulaması. |
-| [Oyun Kutusu](https://github.com/sametmetemutlu/partygames-data) | Film listeleri ve tahmin soruları. |
-| [Glyphly](https://github.com/sametmetemutlu/glyphly) | Çizdiğin gliflerle yazı tipi oluşturan iOS uygulaması. Çizimler cihazda kalır. |
+**[CarPatt](https://github.com/sametmetemutlu/carlpatt)** · Swift, CarPlay
+Kendi M3U listen ve telefon ekranın, park halindeyken araç ekranında. Uygulama kanal sunmaz.
+
+**[Piyasa Gurusu](https://fiyat-gurusu-thgn.vercel.app/piyasagurusu)** · Next.js, Socket.IO
+İlan fiyatını tahmin etme oyunu. Tek oyunculu ve en fazla 10 kişilik odalar. [Kaynak](https://github.com/sametmetemutlu/fiyat-gurusu)
+
+**[Fan Flash](https://github.com/sametmetemutlu/fan-flash-website)** · tanıtım sitesi
+Canlı etkinlikte seyirci telefonlarını senkron bir ışık gösterisine çeviren platform.
+
+**[Hürkan Alabalık](https://h-rkanlaabal-k-1.vercel.app)** · HTML, CSS
+Restoran, canlı balık satışı ve çiftlik sitesi. [Kaynak](https://github.com/sametmetemutlu/hurkan-alabalik)
