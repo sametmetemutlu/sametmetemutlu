@@ -1,6 +1,6 @@
 # Samet Mete Mutlu
 
-Yazılım mühendisiyim. Flutter ile mobil, Swift ile iOS, TypeScript ile web tarafında kendi uygulamalarımı yazıyorum.
+Yazılım mühendisliği öğrencisiyim. Flutter ile mobil, Swift ile iOS, TypeScript ile web tarafında kendi uygulamalarımı yazıyorum.
 
 ## Seçilen işler
 
